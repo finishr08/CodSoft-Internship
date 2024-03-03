@@ -5,10 +5,11 @@ This transformative experience has equipped me with invaluable lessons that I'm 
 During this **Internship**, I successfully created various tasks, including:
 
 - Landing Page
-   - https://landingweb08.netlify.app/
+   - [Visit landing page](https://landingweb08.netlify.app/)
+
 - Portfolio
-   - https://portfolioweb08.netlify.app/
+   - [Visit Portfolio](https://portfolioweb08.netlify.app/)
 - Calculator
-   - https://calculatorweb08.netlify.app/
+   - [Visit Calculator](https://calculatorweb08.netlify.app/)
 
 I extend heartfelt gratitude to the entire CodSoft family for turning this internship into an unforgettable odyssey. Thank you for inspiring and challenging me, fostering my growth both personally and professionally. As I step into the next chapter of my journey, I'll cherish the memories and connections formed during my time here. 🚀
